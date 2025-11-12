@@ -71,5 +71,3 @@ weather app/
 - Suhu
 - Deskripsi cuaca
 
-
-**Dibuat dengan ❤️ menggunakan HTML, CSS, dan JavaScript**
