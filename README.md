@@ -1,6 +1,6 @@
 # Weather App - Aplikasi Prakiraan Cuaca Interaktif
 
-Aplikasi prakiraan cuaca modern dan interaktif yang terintegrasi dengan OpenWeatherMap API, menggunakan Font Awesome untuk ikon berkualitas tinggi.
+Aplikasi prakiraan cuaca modern dan interaktif yang terintegrasi dengan OpenWeatherMap API.
 
 ## Fitur Utama
 
